@@ -15,7 +15,7 @@ data:
         <div class="container">
           <div class="jumbotron mt-5">
             <h1 class="display-4">Welcome, DevOps Engineer!</h1>
-            <p class="lead">Hi DevOps Engineer Chika will bealways here, I got Synced using ArgoCD.</p>
+            <p class="lead">Hi DevOps Engineer Chika will be always here, I got Synced using ArgoCD.</p>
           </div>
         </div>
       </body>
