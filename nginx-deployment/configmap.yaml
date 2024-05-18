@@ -15,6 +15,7 @@ data:
         <div class="container">
           <div class="jumbotron mt-5">
             <h1 class="display-4">Welcome, DevOps Engineer!</h1>
+           <p class="lead">I Finally get the webhook to work with the ngrok tool that helps with public IP to communicate the ArgoCD Server (localhost) with the GIT server </p>
             <p class="lead">Hi DevOps Engineer Chika will bealways here, I got Synced using ArgoCD.</p>
           </div>
         </div>
