@@ -17,7 +17,7 @@ data:
             <h1 class="display-4">Welcome, DevOps Engineer!</h1>
             <p class="lead"> Deploying the app with the new configmap and hope for 10 errors in ArgoCD UI </p>
             <p class="lead">Hi DevOps Engineer Chika will be always here, I got Synced using ArgoCD.</p>
-            <h1 class="display-4">Studing the Delay of syncing the project after getting the webhook</h1>
+            <h1 class="display-4">Studing the Delay of syncing the project after getting the webhook Hi froml the other side </h1>
             <h3 class="display-4"> Testing the Webhook 25-5-2024</h3>
           </div>
         </div>
